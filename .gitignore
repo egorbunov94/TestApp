@@ -3,3 +3,10 @@
 ################################################################################
 
 /ConsoleApp1/.vs/ConsoleApp1/v16/Server/sqlite3
+/ConsoleApp1/.vs/ConsoleApp1/v16
+/ConsoleApp1/ConsoleApp1/obj/Debug/netcoreapp3.1
+/ConsoleApp1/ConsoleApp1/obj/ConsoleApp1.csproj.nuget.cache
+/ConsoleApp1/ConsoleApp1/obj/ConsoleApp1.csproj.nuget.dgspec.json
+/ConsoleApp1/ConsoleApp1/obj/ConsoleApp1.csproj.nuget.g.props
+/ConsoleApp1/ConsoleApp1/obj/ConsoleApp1.csproj.nuget.g.targets
+/ConsoleApp1/ConsoleApp1/obj/project.assets.json
